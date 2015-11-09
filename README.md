@@ -8,3 +8,9 @@ Chase:
 * IndexInterface
   --AVL Tree
   --Hash Table
+
+John:
+*Query Processor
+*Document Parser
+*Stop Word Manager
+*Stemmerifier
