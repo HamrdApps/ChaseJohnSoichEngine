@@ -10,7 +10,7 @@ Chase:
   --Hash Table
 
 John:
-*Query Processor
-*Document Parser
-*Stop Word Manager
-*Stemmerifier
+* Query Processor
+* Document Parser
+* Stop Word Manager
+* Stemmerifier
